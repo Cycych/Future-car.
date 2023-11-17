@@ -1,0 +1,11 @@
+Model Information:
+* title:	Car of the future
+* source:	https://sketchfab.com/3d-models/car-of-the-future-1344db669a5a4ac09c83063ab3253603
+* author:	SDC PERFORMANCE™️ (https://sketchfab.com/3Duae)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Car of the future" (https://sketchfab.com/3d-models/car-of-the-future-1344db669a5a4ac09c83063ab3253603) by SDC PERFORMANCE™️ (https://sketchfab.com/3Duae) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
